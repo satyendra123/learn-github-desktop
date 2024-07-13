@@ -2,5 +2,8 @@
 1) sabse pahle hum github account me jayenge aur ek new repository banayenge. aur usme hum click krenge https wale link ko clone karne ke liye. lekin hum ye tb krenge jab hume clone karna hoga command se. lekin abhi
    hum github desktop se kar rhe hai to hume ye repository dikhne lagegi.
 
-2) iske bad hum apna folder ko select krenge jaha hume apne projects ko clone karna hai. apne projects ko is folder me paste krenge
+2) iske bad hume apne github repository ko clone karna hai apne system me to uske liye hum current repository me jayenge apne github desktop me. aur add button par click krenge to three option aayega usme se clone repository par click karenge to yaha search box dega find your repository ke naam se
+    so iske bad mai apna github open krunga web browser me aur waha se apna jo repository banaya tha usko github website se copy krunga aur apne github desktop par paste kar dunga to mera repository ka naam aane lag jayega aur niche likha aayega select your repository usko select kar lenge
+    iske bad hume niche folder select karne ko bolega to hum waha apna folder select kar lenge. aur clone par click krenge to humara project clone hokar aa jayega
+
 3) so sari files hume github desktop me dikhne lag jayengi. hum new branch ko select karenge aur commit kar denge description me msg likhkar.
