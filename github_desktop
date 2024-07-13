@@ -4,6 +4,8 @@
 
 2) iske bad hume apne github repository ko clone karna hai apne system me to uske liye hum current repository me jayenge apne github desktop me. aur add button par click krenge to three option aayega usme se clone repository par click karenge to yaha search box dega find your repository ke naam se
     so iske bad mai apna github open krunga web browser me aur waha se apna jo repository banaya tha usko github website se copy krunga aur apne github desktop par paste kar dunga to mera repository ka naam aane lag jayega aur niche likha aayega select your repository usko select kar lenge
-    iske bad hume niche folder select karne ko bolega to hum waha apna folder select kar lenge. aur clone par click krenge to humara project clone hokar aa jayega
+    iske bad hume niche folder select karne ko bolega to hum waha apna folder select kar lenge. aur clone button par click krenge to humara project clone hokar aa jayega us folder me.
 
-3) so sari files hume github desktop me dikhne lag jayengi. hum new branch ko select karenge aur commit kar denge description me msg likhkar.
+3) ab hum apne files ko is folder me dal denge so ye chiz humare github desktop me reflect hokar dikhne lag jayega. hum brach ka name likh denge ya new branch ko select kar lenge aur commit par click kar denge
+
+4) ab hum direct apne website me github ko open karenge aur check krenge ki us repository me branch me jakar ki upload hua hai yaa nahi
