@@ -1,1 +1,10 @@
 # isme hum git bash se sikhenge ki apne code ko kaise upload krte hai jaise
+
+#step-1 open the gitbash in this directory cd /path/to/your/project
+#step-2 git init
+#step-3 git remote add origin https://github.com/<username>/<repo>.git
+#step-4 git add .
+#step-5 git commit -m "Initial commit"
+#step-6 git push -u origin master
+
+
